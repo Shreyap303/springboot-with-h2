@@ -8,15 +8,11 @@ In this implement in memory db h2, swagger
 ### Guides
 The following guides illustrate how to use some features concretely:
 
-#This application was developed in ubantu os.
-
 This application is running on **9090** port with spring boot in-built tomcat server.
 
 Also please find the **DataOneTask1_postman_collection.json** for API url and json objects
 
 *** Task 2
-
-# Getting Started
 
 ### Guides
 The following guides illustrate how to use some features concretely:
